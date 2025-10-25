@@ -5,7 +5,6 @@ import { useMemo, useRef } from 'react';
 
 // framer
 import { AnimatePresence, motion } from 'framer-motion';
-
 // stores
 import { useFirebaseSettingsStore } from '../../stores/firebaseSettingsStore';
 
